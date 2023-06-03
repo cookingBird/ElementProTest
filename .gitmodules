@@ -1,0 +1,3 @@
+[submodule "packages/ElementPro"]
+	path = packages/ElementPro
+	url = https://github.com/cookingBird/ElementPro.git
